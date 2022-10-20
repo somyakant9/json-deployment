@@ -338,5 +338,9 @@
       "position": " Backend Developer",
       "language": "Javascript"
     }
+  ],
+  "capitals":[
+    {"id" : 1 , "name":"bhubaneswar"},
+    {"id" : 2 , "name":"bangaluru"}
   ]
 }
