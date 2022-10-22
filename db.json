@@ -35,5 +35,58 @@
       "place": "mumbai",
       "gender": "Female"
       }
+  ],
+  "furniture": [
+    {
+      "id": 0.05279801828141295,
+      "type": "Chair",
+      "year": "2021",
+      "Description": "Table for study purpose",
+      "Price": "2000"
+    },
+    {
+      "id": 0.19195055763839797,
+      "type": "Sofa",
+      "year": "2021",
+      "Description": "Sofa of best quality by armen",
+      "Price": "7890"
+    },
+    {
+      "id": 0.7206679096703286,
+      "type": "Bed",
+      "year": "2021",
+      "Description": "Bed from best world class designers",
+      "Price": "5678"
+    },
+    {
+      "id": 0.8042069993883365,
+      "type": "Chair",
+      "year": "2020",
+      "Description": "table for eating purpose ",
+      "Price": "3444"
+    }
+  ],
+  "wishlisted": [
+    {
+      "id": 0.19195055763839797,
+      "type": "Sofa",
+      "year": "2021",
+      "Description": "Sofa of best quality by armen",
+      "Price": "7890"
+    },
+    {
+      "id": 0.05279801828141295,
+      "type": "Chair",
+      "year": "2021",
+      "Description": "Table for study purpose",
+      "Price": "2000"
+    },
+    {
+      "id": 0.7206679096703286,
+      "type": "Bed",
+      "year": "2021",
+      "Description": "Bed from best world class designers",
+      "Price": "5678"
+    }
   ]
 }
